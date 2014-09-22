@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1410587926 source:c:\users\michael\documents\codeblocks projects\rpg\main.cpp
+	<iostream>
+	"Player1.h"
+	"Attributes.h"
+
+1410586953 c:\users\michael\documents\codeblocks projects\rpg\player1.h
+	<iostream>
+	<string>
+
+1410586953 source:c:\users\michael\documents\codeblocks projects\rpg\player1.cpp
+	"Player1.h"
+	<iostream>
+	<string>
+
+1410587941 source:c:\users\michael\documents\codeblocks projects\rpg\attributes.cpp
+	"Attributes.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1410587926 c:\users\michael\documents\codeblocks projects\rpg\attributes.h
+
