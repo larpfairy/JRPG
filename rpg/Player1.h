@@ -21,8 +21,7 @@ class Player1
         string playerName;
         string playerRace;
         string playerClass;
-        string Races[5] = {"Human", "Zoltan", "Qunari", "Salarian", "Asari"};
-        string Classes[3] = {"Sniper", "Fighter", "Psychic"};
+        string Classes[5] = {"Policeman", "Nurse", "Scientist", "Brawler", "Homeless"};
 };
 
 #endif // PLAYER1_H

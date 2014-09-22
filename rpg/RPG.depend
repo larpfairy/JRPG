@@ -22,3 +22,26 @@
 
 1410587926 c:\users\michael\documents\codeblocks projects\rpg\attributes.h
 
+1411348537 source:c:\users\michael\documents\github\jrpg\rpg\attributes.cpp
+	"Attributes.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1411348537 c:\users\michael\documents\github\jrpg\rpg\attributes.h
+
+1411348538 source:c:\users\michael\documents\github\jrpg\rpg\main.cpp
+	<iostream>
+	"Player1.h"
+	"Attributes.h"
+
+1411348537 c:\users\michael\documents\github\jrpg\rpg\player1.h
+	<iostream>
+	<string>
+
+1411348537 source:c:\users\michael\documents\github\jrpg\rpg\player1.cpp
+	"Player1.h"
+	<iostream>
+	<string>
+

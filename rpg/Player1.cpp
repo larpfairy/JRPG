@@ -14,21 +14,6 @@ void Player1::SetName()
     cout << "Please enter your name: ";
     cin >> playerName;
 }
-string Player1::GetRace()
-{
-    return playerRace;
-}
-void Player1::SetRace()
-{
-    cout << "Please Choose a Race: " << endl;
-    for(i = 0; i < 5; i++)
-    {
-        cout << i+1 << ". ";
-        cout << Races[i] << endl;
-    }
-    cin >> raceNumber;
-    playerRace = Races[raceNumber-1];
-}
 string Player1::GetClass()
 {
     return playerClass;
@@ -36,7 +21,7 @@ string Player1::GetClass()
 void Player1::SetClass()
 {
     cout << "Please Choose a Class: " << endl;
-    for(i = 0; i < 3; i++)
+    for(i = 0; i < 5; i++)
     {
         cout << i+1 << ". ";
         cout << Classes[i] << endl;
